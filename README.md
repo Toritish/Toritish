@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Victoria Ntinyari
 
-🎓 I'm a final-year Computer Science student at JKUAT  
+🎓 I'm a final-year Mathematics and Computer Science student at JKUAT  
 🔐 I'm passionate about **Cybersecurity**, **CTFs**, and **ethical hacking**  
 🖥️ Currently learning: **Linux**, **Cloud**, **Kubernetes**, and **SEO**  
 📊 Exploring: **Data Analytics**, **Web Security**, and **Open Source Intelligence (OSINT)**  
@@ -28,9 +28,8 @@
 ---
 
 ### 📫 How to Reach Me
-- 🌐 [LinkedIn](https://www.linkedin.com/in/victoria-ntinyari) *(replace with your link)*
-- ✉️ Email: *yourname@example.com* *(replace with your email)*
-- 🧠 TryHackMe: [tryhackme.com/@yourusername](https://tryhackme.com) *(replace with your THM handle)*
+- 🌐 [LinkedIn](http://linkedin.com/in/victoria-ntinyari-917aa2262) 
+- ✉️ Email: *stishvictoria@gmail.com * 
 
 ---
 
